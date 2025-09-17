@@ -4,8 +4,8 @@
   font-style: normal;
   src:
     local("TT Lake"),
-    url("../fonts.css/TTLakes-Regular.woff2") format("woff2"),
-    url("../fonts.css/TTLakes-Regular.woff") format("woff");
+    url("../fonts/TTLakes-Regular.woff2") format("woff2"),
+    url("../fonts/TTLakes-Regular.woff") format("woff");
   font-display: swap;
 }
 
@@ -15,7 +15,7 @@
   font-style: medium;
   src:
     local("TT Lake Medium"),
-    url("../fonts.css/TTLakes-Medium.woff") format("woff");
+    url("../fonts/TTLakes-Medium.woff") format("woff");
   font-display: swap;
 }
 
@@ -25,6 +25,6 @@
   font-style: bold;
   src:
     local("TT Lake Bold"),
-    url("../fonts.css/TTLakes-Bold.woff") format("woff");
+    url("../fonts/TTLakes-Bold.woff") format("woff");
   font-display: swap;
 }
